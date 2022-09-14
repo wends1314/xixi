@@ -1,0 +1,19 @@
+{
+  "name": "magnifierklxxx",
+  "version": "1.0.0",
+  "description": "magnfier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "放大镜"
+  ],
+  "author": "heihei",
+  "license": "MIT",
+  "dependencies": {
+    "loadsh": "0.0.4",
+    "lodash": "^4.17.21",
+    "vue": "^3.2.39"
+  }
+}
